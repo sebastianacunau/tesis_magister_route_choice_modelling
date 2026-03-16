@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Modelamiento y clasificación de estrategias de elección de rutas en el transporte público de Santiago"
+version: 0.1.0
+date-released: "2026-01-01"
+authors:
+  - family-names: Acuña
+    given-names: Sebastián
+    affiliation: "Universidad de Chile"
+license: MIT
+repository-code: "https://github.com/sebastianacunau/tesis_magister_route_choice_modelling"
+keywords:
+  - route choice modelling
+  - public transport
+  - Santiago
+  - machine learning
+  - data science
