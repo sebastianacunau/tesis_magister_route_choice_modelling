@@ -1,0 +1,36 @@
+# ── Data directory ──────────────────────────────────────────────────────────
+# Ignore all contents of data/ (including subdirectories),
+# but keep the folder tree visible via .gitkeep files.
+data/**
+!data/raw/
+!data/raw/.gitkeep
+!data/processed/
+!data/processed/.gitkeep
+
+# ── Python ───────────────────────────────────────────────────────────────────
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+.venv/
+venv/
+env/
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+
+# ── IDE / Editor ─────────────────────────────────────────────────────────────
+.idea/
+.vscode/
+
+# ── OS artefacts ─────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
