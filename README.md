@@ -2,7 +2,7 @@
 
 **Modelamiento y clasificación de estrategias de elección de rutas en el transporte público de Santiago**
 
-Repositorio de la tesis para optar al título de Ingeniero Civil Matemático y al grado de Magíster en Ciencia de Datos de la Universidad de Chile.
+Repositorio de mi tesis para optar al título de Ingeniero Civil Matemático y al grado de Magíster en Ciencia de Datos de la Universidad de Chile.
 
 ---
 
