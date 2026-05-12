@@ -6,6 +6,8 @@ data/**
 !data/raw/.gitkeep
 !data/processed/
 !data/processed/.gitkeep
+!data/parquets/
+!data/parquets/.gitkeep
 
 # ── Python ───────────────────────────────────────────────────────────────────
 *.pyc
