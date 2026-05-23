@@ -4,6 +4,8 @@
 
 Repositorio de mi tesis para optar al título de Ingeniero Civil Matemático y al grado de Magíster en Ciencia de Datos de la Universidad de Chile.
 
+Para ver Carta Gantt del estado de avance de mi tesis: https://app.clickup.com/90132761350/v/li/901322549474
+
 ---
 
 ## Estructura del repositorio
